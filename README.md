@@ -7,8 +7,18 @@
 ## 环境依赖
 
 1. python2
-1. mongo
-1. flask
+2. mongo
+2.1centOS安装mongodb
+  安装
+  http://www.linuxeye.com/configuration/1747.html
+  启动
+  service mongod start
+2.2.mac os安装mongodb
+  安装
+  brew install mongodb
+  启动
+  mongod --config /usr/local/etc/mongod.conf &
+3. flask
 
 ## 使用说明
 
