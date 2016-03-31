@@ -1,0 +1,8 @@
+2016-03-31 11:09:40 start.py 21 INFO [Starting...]
+2016-03-31 11:09:42 Mail.py 43 ERROR [(535, 'Error: authentication failed')]
+2016-03-31 11:13:12 start.py 21 INFO [Starting...]
+2016-03-31 11:14:07 start.py 21 INFO [Starting...]
+2016-03-31 11:15:06 start.py 21 INFO [Starting...]
+2016-03-31 11:16:10 Mail.py 43 ERROR [{u'': (501, 'Bad address syntax')}]
+2016-03-31 11:16:21 Mail.py 43 ERROR [{u'': (501, 'Bad address syntax')}]
+2016-03-31 11:30:53 start.py 21 INFO [Starting...]
